@@ -1,0 +1,10 @@
+<b>Horizontal Blinds Closing Motor</b><p>
+
+Board for connecting ESP32 to stepper drivers.<br>
+Uses ESP32-Dev board or the Inland clone sold at Microcenter.<p>
+
+Could be modified to use other ESP32 based developer boards, but code would need to be modified to use different pinouts.<p>
+
+Uses <a href="https://wiki.keyestudio.com/KS0327_Keyestudio_Stepper_Motor_Drive_Board_%2B_5V_Stepper_Motor_Kit_(3PCS)">Keyestudio Stepper</a> ULN2003 based driver<p>
+
+GPIO 34-39 cannot have internal pullup enabled.
