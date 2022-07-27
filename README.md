@@ -44,10 +44,10 @@ The schematic folder contains the board and schematic files in Eagle format
 - One design excludes headers for endstop microswitches
 - One design includes a header for a endstop microswitch
 
-ESP32 Blinds Motor
+- ESP32 Blinds Motor
 ![ESP32 Blinds Motor Board without Endstops](/assets/images/BlindsMotorBoard.png)
 
-ESP32 Blinds Motor w/ Endstop Header
+- ESP32 Blinds Motor w/ Endstop Header
 ![ESP32 Blinds Motor Board with Endstops](/assets/images/BlindsMotorBoardEndstops.png)
 
 ## Code
